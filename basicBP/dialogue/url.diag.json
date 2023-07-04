@@ -1,0 +1,18 @@
+{
+	"format_version": "1.17",
+	"minecraft:npc_dialogue": {
+		"scenes": [
+			{
+				"scene_tag": "example",
+				"npc_name": "Steve",
+				"text": "Hello",
+                "buttons":[
+                    {
+                        "name": "Button_name",
+                        "url": "https://google.com"
+                    }
+                ]
+			}
+		]
+	}
+}

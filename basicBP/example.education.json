@@ -1,0 +1,55 @@
+\\Hour of code 2021
+{
+    "commands" : {
+		"hiddenFromPlayer" : ["*"],
+		"hiddenFromAutomation": ["!setblock","!agent","!replaceitem","!give","!execute","!function"]
+    },
+    "codebuilder":{
+		"defaulturi":"https://minecraft.makecode.com/hoc2021?ingame=1&ipc=1&norunonx=1#tutorial:/hour-of-code/2021/no-code",
+		"disableLegacyTitleBar": true,
+		"capabilities": {
+			"agent":{
+				"permissions":{
+					"canModifyBlocks": true
+					}
+				}
+			}
+	}
+}
+\\code town
+{
+    "codebuilder" : {
+                "defaulturi" : "https://minecraft.makecode.com/?ingame=1&ipc=1&noRunOnX=1#tutorial:/hour-of-code/no-coding"
+    },
+    "commands" : {
+        "hiddenFromPlayer" : ["*"]
+    }
+}
+\\hour of code 20202
+{
+    "commands" : {
+		"hiddenFromPlayer" : ["*"],
+		"hiddenFromAutomation": ["!setblock","!agent","!replaceitem","!give","!execute","!function"]
+    },
+    "codebuilder":{
+		"defaulturi":"https://notebooks.minecrafteduservices.com/prod/index.html?lesson=https://notebooks.minecrafteduservices.com/everglade/content/row/master/hoc2020/no_code.json",
+		"disableLegacyTitleBar": true,
+		"capabilities": {
+			"agent":{
+				"permissions":{
+					"canModifyBlocks": true
+					}
+				}
+			}
+	}
+}
+\\hour of code 2019
+{
+    "codebuilder" : {
+        "canResize": true,
+        "defaulturi" : "https://minecraft.makecode.com/?ingame=1&ipc=1&noRunOnX=1#tutorial:/hour-of-code/no-coding"
+    },
+    "commands" : {
+        "hiddenFromPlayer" : ["*"]
+    }
+}
