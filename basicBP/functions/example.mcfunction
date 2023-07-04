@@ -1,1 +1,1 @@
-say example
+execute as @s run say example

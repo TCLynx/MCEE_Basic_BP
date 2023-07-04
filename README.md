@@ -1,4 +1,5 @@
 ,# MCEE_Basic_BP
+Updating for Minecraft Education version 1.19 to allow for use of the new execute command structure within the behavior pack.
 This Basic Behavior pack was created in 2021 for Minecraft Education Edition version 1.17 to allow teachers to quickly add the behavior pack and folders needed to customize worlds used for teaching with Minecraft education.
 The pack contains an example education.json file that can be edited to control access to commands in game (so that operators can't run commands other than what is enabled by the education.json file)
 The Pack contains a structures folder where .mcstructure files can be placed for use in game via command and/or structure blocks.

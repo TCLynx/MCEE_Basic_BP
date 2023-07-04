@@ -4,15 +4,15 @@
         "description": "Basic Development Behavior Pack",
         "name": "Basic Development Behavior Pack",
 		"uuid": "8a7ba7b1-9a66-476c-8e68-f620c6449a54",
-        "version": [1, 17, 0],
-	"min_engine_version": [1, 17, 0]
+        "version": [1, 19, 0],
+	"min_engine_version": [1, 19, 0]
     },
     "modules": [
         {
             "description": "Basic Development Behavior Pack",
             "type": "data",
 			"uuid": "ecd09d92-6053-4c0a-b22d-08be9fc1f0f1",
-            "version": [1, 17, 0]
+            "version": [1, 19, 0]
         }
     ]
 }
